@@ -3,7 +3,7 @@
   # Hi there, I'm Mhd. Yoga Andhika 👋
   ### Frontend & Creative Developer • Machine Learning Enthusiast
 
-  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4ff32)]([[https://yogaportfolio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4ff32)](https://yogaportfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhd-yoga-andhika-87729b28b/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285121114148)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogaandika395@gmail.com)
@@ -38,11 +38,11 @@
 
 | Project | Domain | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **SI TUAH (Diskominfo Dumai)** | Government Data Portal | `React` `Vite` `Tailwind` `Chart.js` | [🌐 Live Demo](https://web-kominfo-seven.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/Web-Kominfo.git) • [📖 Case Study](https://my-portfolio-gamma-five-58.vercel.app/work/si-tuah) |
+| **SI TUAH (Diskominfo Dumai)** | Government Data Portal | `React` `Vite` `Tailwind` `Chart.js` | [🌐 Live Demo](https://web-kominfo-seven.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/Web-Kominfo.git) • [📖 Case Study](https://yogaportfolio.vercel.app/work/si-tuah) |
 | **EduSummarize Platform** | AI & EdTech | `Next.js` `TypeScript` `AI NLP` `Tailwind` | [🌐 Live Demo](https://edu-summarize-website-peringkas-pel.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/EduSummarize-Website-Peringkas-Pelajaran-Saints.git) |
 | **Next-Category Item Prediction** | Predictive Analytics | `Python` `Scikit-Learn` `Streamlit` | [🌐 Live Demo](https://website-prediksi-next-kategori-item.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/Website-Prediksi-Next-Kategori-Item-Purchase) |
 | **Product ML API** | ML REST Service | `Python` `FastAPI / Flask` `React` | [🌐 Live Demo](https://product-ml-api.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/product_ml_api.git) |
-| **Creative Portfolio Website** | Creative Engineering | `Next.js` `TypeScript` `GSAP` `Lenis` | [🌐 Live Demo](https://my-portfolio-gamma-five-58.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/MyPortfolio) |
+| **Creative Portfolio Website** | Creative Engineering | `Next.js` `TypeScript` `GSAP` `Lenis` | [🌐 Live Demo](https://yogaportfolio.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/MyPortfolio) |
 
 ---
 

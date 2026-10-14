@@ -3,7 +3,7 @@
   # Hi there, I'm Mhd. Yoga Andhika 👋
   ### Frontend & Creative Developer • Machine Learning Enthusiast
 
-  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4ff32)]([https://my-portfolio-gamma-five-58.vercel.app](https://yogaportfolio.vercel.app/))
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=d4ff32)]([[https://yogaportfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhd-yoga-andhika-87729b28b/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285121114148)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogaandika395@gmail.com)

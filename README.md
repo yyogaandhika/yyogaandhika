@@ -25,12 +25,13 @@
 
 ### 💫 About Me
 
-* 🏛️ **Flagship Project:** Engineered **SI TUAH** — Integrated Regional Sectoral Data & Analytics Portal for **Diskominfo Kota Dumai**.
-* 🤖 **AI & Machine Learning:** Developing intelligent systems including **EduSummarize AI** (science summarizer) and predictive retail analytics models.
-* 🎓 **Education:** Informatics Engineering Student at **Politeknik Caltex Riau (PCR)** (2023 – Present).
-* 💼 **Core Focus:** Building high-performance Single Page Applications with Next.js, React, Vite, Tailwind CSS, and fluid GSAP micro-interactions.
-* 🤝 **Looking to Collaborate:** Open-source projects, high-impact web applications, and intelligent ML backend integrations.
-* ⚡ **Philosophy:** Code shouldn't just function reliably—it should feel responsive, polished, and alive.
+- 🎨 **Creative 3D Engineering:** Engineered **Showcase Studio** — Browser-based 3D product mockup generator and animation suite built with Three.js, React, and WebCodecs.
+- 🏛️ **Flagship Government Project:** Engineered **SI TUAH** — Integrated Regional Sectoral Data & Analytics Portal for **Diskominfo Kota Dumai**.
+- 🤖 **AI & Machine Learning:** Developing intelligent systems including **EduSummarize AI** (science summarizer) and predictive retail analytics models.
+- 🎓 **Education:** Informatics Engineering Student at **Politeknik Caltex Riau (PCR)** (2023 – Present).
+- 💼 **Core Focus:** Building high-performance Single Page Applications with Next.js, React, Vite, Tailwind CSS, and fluid GSAP micro-interactions.
+- 🤝 **Looking to Collaborate:** Open-source projects, high-impact web applications, and intelligent ML backend integrations.
+- ⚡ **Philosophy:** Code shouldn't just function reliably—it should feel responsive, polished, and alive.
 
 ---
 
@@ -38,6 +39,7 @@
 
 | Project | Domain | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Showcase Studio** | 3D WebGL & Mockup Studio | `Three.js` `React` `Tailwind` `WebCodecs` | [🌐 Live Studio](https://show-case-studio.vercel.app) • [💻 Source](https://github.com/yyogaandhika/ShowCase-Studio.git) • [📖 Case Study](https://yogaportfolio.vercel.app/work/showcase-studio) |
 | **SI TUAH (Diskominfo Dumai)** | Government Data Portal | `React` `Vite` `Tailwind` `Chart.js` | [🌐 Live Demo](https://web-kominfo-seven.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/Web-Kominfo.git) • [📖 Case Study](https://yogaportfolio.vercel.app/work/si-tuah) |
 | **EduSummarize Platform** | AI & EdTech | `Next.js` `TypeScript` `AI NLP` `Tailwind` | [🌐 Live Demo](https://edu-summarize-website-peringkas-pel.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/EduSummarize-Website-Peringkas-Pelajaran-Saints.git) |
 | **Next-Category Item Prediction** | Predictive Analytics | `Python` `Scikit-Learn` `Streamlit` | [🌐 Live Demo](https://website-prediksi-next-kategori-item.vercel.app/) • [💻 Source](https://github.com/yyogaandhika/Website-Prediksi-Next-Kategori-Item-Purchase) |
@@ -48,11 +50,11 @@
 
 ### 💼 Experience Timeline
 
-* 🏛️ **Frontend Developer** — *SI TUAH, Diskominfo Kota Dumai* `(2026)`  
+- 🏛️ **Frontend Developer** — *SI TUAH, Diskominfo Kota Dumai* `(2026)`  
   *Developed centralized regional statistical data visualization portal consolidating 15+ government sectors with sub-second query performance.*
-* 🧪 **Machine Learning & Web Developer** — *Research & Academic Projects* `(2024 – Present)`  
+- 🧪 **Machine Learning & Web Developer** — *Research & Academic Projects* `(2024 – Present)`  
   *Built predictive analytics models, NLP curriculum summarization tools, and scalable REST API microservices.*
-* 🎓 **Informatics Engineering Student** — *Politeknik Caltex Riau* `(2023 – Present)`  
+- 🎓 **Informatics Engineering Student** — *Politeknik Caltex Riau* `(2023 – Present)`  
   *Specializing in Software Engineering, Modern Web Architectures, and Applied Machine Learning.*
 
 ---
@@ -62,6 +64,7 @@
 #### 🎨 Frontend & Creative Motion
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
